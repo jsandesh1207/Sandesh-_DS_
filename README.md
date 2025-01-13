@@ -1,5 +1,5 @@
-# (Where I was working in iosl . In iosl I  was workinging on some projects)1 project
-# PREDICTION OF OIL WELL PRODUCTIVITY USING ML
+#                                     (Where I was working in iosl . In iosl I  was workinging on some projects)1 project
+#                                                   PREDICTION OF OIL WELL PRODUCTIVITY USING ML
 # OBJECTIVE:
 # Develop a machine learning model to predict the productivity of oil wells based on historical geological and operational data, enabling more effective resource allocation and improved operational planning.(in that )
 # Pre-Model Building:
@@ -40,7 +40,7 @@
 # 10.	Pump Efficiency:
 # The effectiveness of the mechanical systems used to extract oil, directly impacting output.
 
-# 2nd project
+#                                                         2nd project
 # Project Title: Computer Vision for Pipeline Defect Detection(there we)
 # Project Objective:
 # Develop a computer vision system to automatically detect pipeline defects like cracks, corrosion, and leaks by analyzing real-time video footage from drone inspections, enabling timely maintenance and reducing pipeline failure risks.# (for that first we started collecting data through)
@@ -73,7 +73,7 @@
 # Model Deployment:
 # The model was deployed using Flask API for easy access and integration into the existing maintenance infrastructure.
 # The system was tested in real-world conditions using live drone feeds to ensure robustness and reliability.
-# 3rd project
+#                                                                  3rd project
 # Generative AI for Automated Report Preparation in Oil & Gas Operations(in that first we started )
 # Project Flow:
 # Data Collection and Integration:
